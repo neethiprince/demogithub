@@ -1,0 +1,274 @@
+2022-09-13 15:38:16,675 :INFO : test_e2e :getting all the card titles
+2022-09-13 15:38:16,722 :INFO : test_e2e :iphone X
+2022-09-13 15:38:16,742 :INFO : test_e2e :Samsung Note 8
+2022-09-13 15:38:16,763 :INFO : test_e2e :Nokia Edge
+2022-09-13 15:38:16,781 :INFO : test_e2e :Blackberry
+2022-09-13 15:55:24,897 :INFO : test_e2e :getting all the card titles
+2022-09-13 15:55:24,927 :INFO : test_e2e :iphone X
+2022-09-13 15:55:24,938 :INFO : test_e2e :Samsung Note 8
+2022-09-13 15:55:24,949 :INFO : test_e2e :Nokia Edge
+2022-09-13 15:55:24,960 :INFO : test_e2e :Blackberry
+2022-09-13 15:55:25,119 :INFO : test_e2e :Entering country name as ind
+2022-09-13 15:59:58,362 :INFO : test_e2e :getting all the card titles
+2022-09-13 15:59:58,384 :INFO : test_e2e :iphone X
+2022-09-13 15:59:58,395 :INFO : test_e2e :Samsung Note 8
+2022-09-13 15:59:58,404 :INFO : test_e2e :Nokia Edge
+2022-09-13 15:59:58,414 :INFO : test_e2e :Blackberry
+2022-09-13 15:59:58,553 :INFO : test_e2e :Entering country name as ind
+2022-09-13 16:02:48,374 :INFO : test_e2e :getting all the card titles
+2022-09-13 16:02:48,402 :INFO : test_e2e :iphone X
+2022-09-13 16:02:48,412 :INFO : test_e2e :Samsung Note 8
+2022-09-13 16:02:48,424 :INFO : test_e2e :Nokia Edge
+2022-09-13 16:02:48,434 :INFO : test_e2e :Blackberry
+2022-09-13 16:02:48,589 :INFO : test_e2e :Entering country name as ind
+2022-09-13 16:05:38,049 :INFO : test_e2e :getting all the card titles
+2022-09-13 16:05:38,080 :INFO : test_e2e :iphone X
+2022-09-13 16:05:38,090 :INFO : test_e2e :Samsung Note 8
+2022-09-13 16:05:38,102 :INFO : test_e2e :Nokia Edge
+2022-09-13 16:05:38,114 :INFO : test_e2e :Blackberry
+2022-09-13 16:05:38,271 :INFO : test_e2e :Entering country name as ind
+2022-09-13 16:06:31,941 :INFO : test_e2e :getting all the card titles
+2022-09-13 16:06:31,973 :INFO : test_e2e :iphone X
+2022-09-13 16:06:31,984 :INFO : test_e2e :Samsung Note 8
+2022-09-13 16:06:31,994 :INFO : test_e2e :Nokia Edge
+2022-09-13 16:06:32,005 :INFO : test_e2e :Blackberry
+2022-09-13 16:06:32,164 :INFO : test_e2e :Entering country name as ind
+2022-09-13 17:59:34,946 :INFO : test_formSubmission :first name is Rahul
+2022-09-13 17:59:35,008 :INFO : test_formSubmission :first name is Anshika
+2022-09-13 17:59:35,008 :INFO : test_formSubmission :first name is Anshika
+2022-09-13 18:01:13,804 :INFO : test_formSubmission :first name is Rahul
+2022-09-13 18:01:13,933 :INFO : test_formSubmission :first name is Anshika
+2022-09-13 18:01:13,933 :INFO : test_formSubmission :first name is Anshika
+2022-09-13 18:02:29,172 :INFO : test_formSubmission :first name is Rahul
+2022-09-13 18:02:29,499 :INFO : test_formSubmission :first name is Anshika
+2022-09-13 18:02:29,499 :INFO : test_formSubmission :first name is Anshika
+2022-09-13 18:04:56,733 :INFO : test_formSubmission :first name is neethi
+2022-09-13 18:04:57,149 :INFO : test_formSubmission :first name is Prince
+2022-09-13 18:04:57,149 :INFO : test_formSubmission :first name is Prince
+2022-09-13 18:04:59,963 :INFO : test_e2e :getting all the card titles
+2022-09-13 18:04:59,994 :INFO : test_e2e :iphone X
+2022-09-13 18:05:00,005 :INFO : test_e2e :Samsung Note 8
+2022-09-13 18:05:00,016 :INFO : test_e2e :Nokia Edge
+2022-09-13 18:05:00,027 :INFO : test_e2e :Blackberry
+2022-09-13 18:05:00,162 :INFO : test_e2e :Entering country name as ind
+2022-09-13 18:13:29,496 :INFO : test_formSubmission :first name is neethi
+2022-09-13 18:13:29,545 :INFO : test_formSubmission :email is prince
+2022-09-13 18:13:29,856 :INFO : test_formSubmission :first name is Prince
+2022-09-13 18:13:29,856 :INFO : test_formSubmission :first name is Prince
+2022-09-13 18:13:29,917 :INFO : test_formSubmission :email is Mohandas
+2022-09-13 18:13:29,917 :INFO : test_formSubmission :email is Mohandas
+2022-09-13 18:14:20,723 :INFO : test_formSubmission :first name is neethi
+2022-09-13 18:14:20,779 :INFO : test_formSubmission :email is prince
+2022-09-13 18:14:21,101 :INFO : test_formSubmission :first name is Prince
+2022-09-13 18:14:21,101 :INFO : test_formSubmission :first name is Prince
+2022-09-13 18:14:21,142 :INFO : test_formSubmission :email is Mohandas
+2022-09-13 18:14:21,142 :INFO : test_formSubmission :email is Mohandas
+2022-09-13 18:14:23,832 :INFO : test_e2e :getting all the card titles
+2022-09-13 18:14:23,855 :INFO : test_e2e :iphone X
+2022-09-13 18:14:23,863 :INFO : test_e2e :Samsung Note 8
+2022-09-13 18:14:23,874 :INFO : test_e2e :Nokia Edge
+2022-09-13 18:14:23,884 :INFO : test_e2e :Blackberry
+2022-09-13 18:14:24,044 :INFO : test_e2e :Entering country name as ind
+2022-09-13 18:17:44,278 :INFO : test_formSubmission :first name is neethi
+2022-09-13 18:17:44,353 :INFO : test_formSubmission :email is prince
+2022-09-13 18:17:44,470 :INFO : test_formSubmission :gender is Female
+2022-09-13 18:17:44,715 :INFO : test_formSubmission :first name is Prince
+2022-09-13 18:17:44,715 :INFO : test_formSubmission :first name is Prince
+2022-09-13 18:17:44,766 :INFO : test_formSubmission :email is Mohandas
+2022-09-13 18:17:44,766 :INFO : test_formSubmission :email is Mohandas
+2022-09-13 18:17:44,862 :INFO : test_formSubmission :gender is Male
+2022-09-13 18:17:44,862 :INFO : test_formSubmission :gender is Male
+2022-09-14 10:26:21,063 :INFO : test_formSubmission :first name is neethi
+2022-09-14 10:26:21,124 :INFO : test_formSubmission :email is prince
+2022-09-14 10:26:21,243 :INFO : test_formSubmission :gender is Female
+2022-09-14 10:26:21,468 :INFO : test_formSubmission :first name is Prince
+2022-09-14 10:26:21,468 :INFO : test_formSubmission :first name is Prince
+2022-09-14 10:26:21,530 :INFO : test_formSubmission :email is Mohandas
+2022-09-14 10:26:21,530 :INFO : test_formSubmission :email is Mohandas
+2022-09-14 10:26:21,636 :INFO : test_formSubmission :gender is Male
+2022-09-14 10:26:21,636 :INFO : test_formSubmission :gender is Male
+2022-09-14 10:26:38,483 :INFO : test_formSubmission :first name is neethi
+2022-09-14 10:26:38,561 :INFO : test_formSubmission :email is prince
+2022-09-14 10:26:38,650 :INFO : test_formSubmission :gender is Female
+2022-09-14 10:26:38,864 :INFO : test_formSubmission :first name is Prince
+2022-09-14 10:26:38,864 :INFO : test_formSubmission :first name is Prince
+2022-09-14 10:26:38,922 :INFO : test_formSubmission :email is Mohandas
+2022-09-14 10:26:38,922 :INFO : test_formSubmission :email is Mohandas
+2022-09-14 10:26:39,029 :INFO : test_formSubmission :gender is Male
+2022-09-14 10:26:39,029 :INFO : test_formSubmission :gender is Male
+2022-09-14 10:26:41,625 :INFO : test_e2e :getting all the card titles
+2022-09-14 10:26:41,651 :INFO : test_e2e :iphone X
+2022-09-14 10:26:41,661 :INFO : test_e2e :Samsung Note 8
+2022-09-14 10:26:41,671 :INFO : test_e2e :Nokia Edge
+2022-09-14 10:26:41,680 :INFO : test_e2e :Blackberry
+2022-09-14 10:26:41,810 :INFO : test_e2e :Entering country name as ind
+2022-09-14 15:30:45,710 :INFO : test_e2e :getting all the card titles
+2022-09-14 15:30:45,743 :INFO : test_e2e :iphone X
+2022-09-14 15:30:45,754 :INFO : test_e2e :Samsung Note 8
+2022-09-14 15:30:45,764 :INFO : test_e2e :Nokia Edge
+2022-09-14 15:30:45,773 :INFO : test_e2e :Blackberry
+2022-09-14 15:30:45,936 :INFO : test_e2e :Entering country name as ind
+2022-09-14 15:33:24,026 :INFO : test_e2e :getting all the card titles
+2022-09-14 15:33:24,054 :INFO : test_e2e :iphone X
+2022-09-14 15:33:24,064 :INFO : test_e2e :Samsung Note 8
+2022-09-14 15:33:24,074 :INFO : test_e2e :Nokia Edge
+2022-09-14 15:33:24,084 :INFO : test_e2e :Blackberry
+2022-09-14 15:33:24,242 :INFO : test_e2e :Entering country name as ind
+2022-09-14 15:33:29,521 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-09-14 15:34:55,463 :INFO : test_formSubmission :first name is neethi
+2022-09-14 15:34:55,520 :INFO : test_formSubmission :email is prince
+2022-09-14 15:34:55,605 :INFO : test_formSubmission :gender is Female
+2022-09-14 15:34:55,808 :INFO : test_formSubmission :first name is Prince
+2022-09-14 15:34:55,808 :INFO : test_formSubmission :first name is Prince
+2022-09-14 15:34:55,854 :INFO : test_formSubmission :email is Mohandas
+2022-09-14 15:34:55,854 :INFO : test_formSubmission :email is Mohandas
+2022-09-14 15:34:55,946 :INFO : test_formSubmission :gender is Male
+2022-09-14 15:34:55,946 :INFO : test_formSubmission :gender is Male
+2022-09-14 15:34:58,490 :INFO : test_e2e :getting all the card titles
+2022-09-14 15:34:58,511 :INFO : test_e2e :iphone X
+2022-09-14 15:34:58,519 :INFO : test_e2e :Samsung Note 8
+2022-09-14 15:34:58,529 :INFO : test_e2e :Nokia Edge
+2022-09-14 15:34:58,537 :INFO : test_e2e :Blackberry
+2022-09-14 15:34:58,693 :INFO : test_e2e :Entering country name as ind
+2022-09-14 15:35:03,957 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-09-14 17:03:48,603 :INFO : test_formSubmission :first name is neethi
+2022-09-14 17:03:48,680 :INFO : test_formSubmission :email is prince
+2022-09-14 17:03:48,790 :INFO : test_formSubmission :gender is Female
+2022-09-14 17:03:49,027 :INFO : test_formSubmission :first name is Prince
+2022-09-14 17:03:49,027 :INFO : test_formSubmission :first name is Prince
+2022-09-14 17:03:49,083 :INFO : test_formSubmission :email is Mohandas
+2022-09-14 17:03:49,083 :INFO : test_formSubmission :email is Mohandas
+2022-09-14 17:03:49,171 :INFO : test_formSubmission :gender is Male
+2022-09-14 17:03:49,171 :INFO : test_formSubmission :gender is Male
+2022-09-14 17:03:51,870 :INFO : test_e2e :getting all the card titles
+2022-09-14 17:03:51,897 :INFO : test_e2e :iphone X
+2022-09-14 17:03:51,909 :INFO : test_e2e :Samsung Note 8
+2022-09-14 17:03:51,921 :INFO : test_e2e :Nokia Edge
+2022-09-14 17:03:51,932 :INFO : test_e2e :Blackberry
+2022-09-14 17:03:52,125 :INFO : test_e2e :Entering country name as ind
+2022-09-14 17:03:57,377 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-09-14 17:04:17,788 :INFO : test_formSubmission :first name is neethi
+2022-09-14 17:04:17,843 :INFO : test_formSubmission :email is prince
+2022-09-14 17:04:17,985 :INFO : test_formSubmission :gender is Female
+2022-09-14 17:04:18,212 :INFO : test_formSubmission :first name is Prince
+2022-09-14 17:04:18,212 :INFO : test_formSubmission :first name is Prince
+2022-09-14 17:04:18,266 :INFO : test_formSubmission :email is Mohandas
+2022-09-14 17:04:18,266 :INFO : test_formSubmission :email is Mohandas
+2022-09-14 17:04:18,362 :INFO : test_formSubmission :gender is Male
+2022-09-14 17:04:18,362 :INFO : test_formSubmission :gender is Male
+2022-09-14 17:04:21,365 :INFO : test_e2e :getting all the card titles
+2022-09-14 17:04:21,402 :INFO : test_e2e :iphone X
+2022-09-14 17:04:21,419 :INFO : test_e2e :Samsung Note 8
+2022-09-14 17:04:21,437 :INFO : test_e2e :Nokia Edge
+2022-09-14 17:04:21,452 :INFO : test_e2e :Blackberry
+2022-09-14 17:04:21,674 :INFO : test_e2e :Entering country name as ind
+2022-09-14 17:04:26,959 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-09-14 17:10:42,247 :INFO : test_formSubmission :first name is neethi
+2022-09-14 17:10:42,336 :INFO : test_formSubmission :email is prince
+2022-09-14 17:10:42,433 :INFO : test_formSubmission :gender is Female
+2022-09-14 17:10:42,667 :INFO : test_formSubmission :first name is Prince
+2022-09-14 17:10:42,667 :INFO : test_formSubmission :first name is Prince
+2022-09-14 17:10:42,730 :INFO : test_formSubmission :email is Mohandas
+2022-09-14 17:10:42,730 :INFO : test_formSubmission :email is Mohandas
+2022-09-14 17:10:42,840 :INFO : test_formSubmission :gender is Male
+2022-09-14 17:10:42,840 :INFO : test_formSubmission :gender is Male
+2022-09-14 17:10:45,821 :INFO : test_e2e :iphone X
+2022-09-14 17:10:45,832 :INFO : test_e2e :Samsung Note 8
+2022-09-14 17:10:45,847 :INFO : test_e2e :Nokia Edge
+2022-09-14 17:10:45,860 :INFO : test_e2e :Blackberry
+2022-09-14 17:10:46,029 :INFO : test_e2e :Entering country name as ind
+2022-09-14 17:10:51,352 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-09-14 17:12:50,119 :INFO : test_formSubmission :first name is neethi
+2022-09-14 17:12:50,193 :INFO : test_formSubmission :email is prince
+2022-09-14 17:12:50,297 :INFO : test_formSubmission :gender is Female
+2022-09-14 17:12:50,572 :INFO : test_formSubmission :first name is Prince
+2022-09-14 17:12:50,572 :INFO : test_formSubmission :first name is Prince
+2022-09-14 17:12:50,648 :INFO : test_formSubmission :email is Mohandas
+2022-09-14 17:12:50,648 :INFO : test_formSubmission :email is Mohandas
+2022-09-14 17:12:50,779 :INFO : test_formSubmission :gender is Male
+2022-09-14 17:12:50,779 :INFO : test_formSubmission :gender is Male
+2022-09-14 17:12:53,572 :INFO : test_e2e :getting all the card titles
+2022-09-14 17:12:53,597 :INFO : test_e2e :iphone X
+2022-09-14 17:12:53,611 :INFO : test_e2e :Samsung Note 8
+2022-09-14 17:12:53,623 :INFO : test_e2e :Nokia Edge
+2022-09-14 17:12:53,633 :INFO : test_e2e :Blackberry
+2022-09-14 17:12:53,808 :INFO : test_e2e :Entering country name as ind
+2022-09-14 17:12:59,106 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-09-14 17:36:02,311 :INFO : test_formSubmission :first name is neethi
+2022-09-14 17:36:02,366 :INFO : test_formSubmission :email is prince
+2022-09-14 17:36:02,459 :INFO : test_formSubmission :gender is Female
+2022-09-14 17:36:02,682 :INFO : test_formSubmission :first name is Prince
+2022-09-14 17:36:02,682 :INFO : test_formSubmission :first name is Prince
+2022-09-14 17:36:02,739 :INFO : test_formSubmission :email is Mohandas
+2022-09-14 17:36:02,739 :INFO : test_formSubmission :email is Mohandas
+2022-09-14 17:36:02,840 :INFO : test_formSubmission :gender is Male
+2022-09-14 17:36:02,840 :INFO : test_formSubmission :gender is Male
+2022-09-14 17:36:07,729 :INFO : test_e2e :getting all the card titles
+2022-09-14 17:36:07,758 :INFO : test_e2e :iphone X
+2022-09-14 17:36:07,769 :INFO : test_e2e :Samsung Note 8
+2022-09-14 17:36:07,780 :INFO : test_e2e :Nokia Edge
+2022-09-14 17:36:07,792 :INFO : test_e2e :Blackberry
+2022-09-14 17:36:07,950 :INFO : test_e2e :Entering country name as ind
+2022-09-14 17:36:13,256 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-09-14 17:39:11,461 :INFO : test_formSubmission :first name is neethi
+2022-09-14 17:39:11,535 :INFO : test_formSubmission :email is prince
+2022-09-14 17:39:11,671 :INFO : test_formSubmission :gender is Female
+2022-09-14 17:39:11,893 :INFO : test_formSubmission :first name is Prince
+2022-09-14 17:39:11,893 :INFO : test_formSubmission :first name is Prince
+2022-09-14 17:39:11,964 :INFO : test_formSubmission :email is Mohandas
+2022-09-14 17:39:11,964 :INFO : test_formSubmission :email is Mohandas
+2022-09-14 17:39:12,065 :INFO : test_formSubmission :gender is Male
+2022-09-14 17:39:12,065 :INFO : test_formSubmission :gender is Male
+2022-09-14 17:39:14,761 :INFO : test_e2e :getting all the card titles
+2022-09-14 17:39:14,793 :INFO : test_e2e :iphone X
+2022-09-14 17:39:14,807 :INFO : test_e2e :Samsung Note 8
+2022-09-14 17:39:14,822 :INFO : test_e2e :Nokia Edge
+2022-09-14 17:39:14,833 :INFO : test_e2e :Blackberry
+2022-09-14 17:39:14,995 :INFO : test_e2e :Entering country name as ind
+2022-09-14 17:39:20,205 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-09-14 18:06:31,490 :INFO : test_formSubmission :first name is neethi
+2022-09-14 18:06:31,564 :INFO : test_formSubmission :email is prince
+2022-09-14 18:06:31,694 :INFO : test_formSubmission :gender is Female
+2022-09-14 18:06:31,978 :INFO : test_formSubmission :first name is Prince
+2022-09-14 18:06:31,978 :INFO : test_formSubmission :first name is Prince
+2022-09-14 18:06:32,053 :INFO : test_formSubmission :email is Mohandas
+2022-09-14 18:06:32,053 :INFO : test_formSubmission :email is Mohandas
+2022-09-14 18:06:32,181 :INFO : test_formSubmission :gender is Male
+2022-09-14 18:06:32,181 :INFO : test_formSubmission :gender is Male
+2022-09-14 18:06:34,817 :INFO : test_e2e :getting all the card titles
+2022-09-14 18:06:34,850 :INFO : test_e2e :iphone X
+2022-09-14 18:06:34,863 :INFO : test_e2e :Samsung Note 8
+2022-09-14 18:06:34,875 :INFO : test_e2e :Nokia Edge
+2022-09-14 18:06:34,887 :INFO : test_e2e :Blackberry
+2022-09-14 18:06:35,065 :INFO : test_e2e :Entering country name as ind
+2022-09-14 18:06:40,312 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-09-15 17:26:19,444 :INFO : test_formSubmission :first name is neethi
+2022-09-15 17:26:19,486 :INFO : test_formSubmission :email is prince
+2022-09-15 17:26:19,572 :INFO : test_formSubmission :gender is Female
+2022-09-15 17:26:19,793 :INFO : test_formSubmission :first name is Prince
+2022-09-15 17:26:19,793 :INFO : test_formSubmission :first name is Prince
+2022-09-15 17:26:19,853 :INFO : test_formSubmission :email is Mohandas
+2022-09-15 17:26:19,853 :INFO : test_formSubmission :email is Mohandas
+2022-09-15 17:26:19,960 :INFO : test_formSubmission :gender is Male
+2022-09-15 17:26:19,960 :INFO : test_formSubmission :gender is Male
+2022-09-16 10:17:06,857 :INFO : test_formSubmission :first name is neethi
+2022-09-16 10:17:06,952 :INFO : test_formSubmission :email is prince
+2022-09-16 10:17:07,083 :INFO : test_formSubmission :gender is Female
+2022-09-16 10:17:07,480 :INFO : test_formSubmission :first name is Prince
+2022-09-16 10:17:07,480 :INFO : test_formSubmission :first name is Prince
+2022-09-16 10:17:07,557 :INFO : test_formSubmission :email is Mohandas
+2022-09-16 10:17:07,557 :INFO : test_formSubmission :email is Mohandas
+2022-09-16 10:17:07,738 :INFO : test_formSubmission :gender is Male
+2022-09-16 10:17:07,738 :INFO : test_formSubmission :gender is Male
+2022-09-16 11:24:58,974 :INFO : test_formSubmission :first name is Sujit
+2022-09-16 11:24:59,046 :INFO : test_formSubmission :email is Dasan
+2022-09-16 11:24:59,157 :INFO : test_formSubmission :gender is Male
