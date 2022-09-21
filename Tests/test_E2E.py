@@ -41,6 +41,8 @@ class Test1(Baseclass):
         # wait.until(expected_conditions.presence_of_element_located((By.CSS_SELECTOR,".alert-danger")))
         incorrecttext = self.driver.find_element(By.CSS_SELECTOR, ".alert-danger").text
         print(incorrecttext)
+        print("this is the message to input changes to Github repository")
+        print("Github changes")
         # print(incorrecttext)
         assert "Incorrect" in incorrecttext
 
